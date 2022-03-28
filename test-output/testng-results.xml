@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34" started-at="2022-03-28T13:32:47Z" finished-at="2022-03-28T13:32:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34" started-at="2022-03-28T13:32:47Z" finished-at="2022-03-28T13:32:47Z">
+      <class name="com.parser.model.AlertTests">
+        <test-method status="PASS" signature="alertWithDefaultValue()[pri:0, instance:com.parser.model.AlertTests@5cc7c2a6]" name="alertWithDefaultValue" duration-ms="12" started-at="2022-03-28T19:02:47Z" finished-at="2022-03-28T19:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertWithDefaultValue -->
+        <test-method status="PASS" signature="alertWithDifferentFlag()[pri:0, instance:com.parser.model.AlertTests@5cc7c2a6]" name="alertWithDifferentFlag" duration-ms="2" started-at="2022-03-28T19:02:47Z" finished-at="2022-03-28T19:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertWithDifferentFlag -->
+        <test-method status="PASS" signature="defaultAlertFlagForAlert()[pri:0, instance:com.parser.model.AlertTests@5cc7c2a6]" name="defaultAlertFlagForAlert" duration-ms="1" started-at="2022-03-28T19:02:47Z" finished-at="2022-03-28T19:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultAlertFlagForAlert -->
+      </class> <!-- com.parser.model.AlertTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
